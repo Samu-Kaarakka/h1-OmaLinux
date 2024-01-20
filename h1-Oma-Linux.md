@@ -26,7 +26,11 @@ Seuraavaksi asensin Debianin virtuaalikoneen työpöydältä löytyvästä Insta
 
 ![Add file: Upload](Osa-2.png)
 
-Tietokonetta nimetäessä oli tärkeää, että nimi ei sisällä omaa taikka esimerkiksi koulun nimeä. Myös salasanan tuli olla tarpeeksi vahva. Debianin onnistuneen asennuksen jälkeen testasin, että esimerkiksi internetselain toimii niinkuin pitää ja se toimikin:
+Tietokonetta nimettäessä oli tärkeää, että nimi ei sisällä omaa taikka esimerkiksi koulun nimeä. Myös salasanan tuli olla tarpeeksi vahva. Debianin onnistuneen asennuksen jälkeen testasin, että esimerkiksi internetselain toimii niinkuin pitää ja se toimikin:
+
+![Add file: Upload](Osa-3.png)
+
+Viimeiseksi päivitin kaiken komentorivillä komentoa "$ sudo apt-get -y dist-upgrade" käyttäen sekä asensin palomuurin:
 
 
 
