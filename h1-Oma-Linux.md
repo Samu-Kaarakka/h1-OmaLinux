@@ -17,8 +17,13 @@ x) Hyvän raportin ominaisuuksia:
  - Vapaa ohjelmisto ei tarkoita välttämättä ilmaista ohjelmistoa
  - Vapaa ohjelmisto ei tarkoita samaa kuin avoimen lähdekoodin ohjelmisto
 
+## a) Raportti H1-Oma Linux
+Tätä tehtävää varten asensin uuden linux virtuaalikoneen. Ensiksi latasin uusimman Debian ISO-image tiedoston sekä asensin Oracle VirtualBox ohjelman virtuaalikoneen asentamista varten. Virtuaalikoneelle annoin kuvan mukaiset asetukset eli käyttöjärjestelmäksi linux, versioksi 64-bittinen Debian, ram-muistin määräksi 4gb sekä kovalevyn kooksi 60gb:
 
 ![Add file: Upload](Osa-1.png)
+
+Seuraavaksi asensin itse linuxin virtuaalikoneen työpöydältä löytyvästä Install Debian - painikkeesta. Asennuksessa oli hyvä vaihtaa näppäimistö Suomeksi, jotta kaikki kirjaimet toimivat niinkuin pitääkin. Tärkeää oli myös tyhjentää virtuaalilevy, jotta mitään edellisiä/ylimääräisiä asioita ei jäänyt: 
+
 
  ## Lähteet
 
