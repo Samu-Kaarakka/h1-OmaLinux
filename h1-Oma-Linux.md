@@ -22,7 +22,13 @@ Tätä tehtävää varten asensin uuden linux virtuaalikoneen. Ensiksi latasin u
 
 ![Add file: Upload](Osa-1.png)
 
-Seuraavaksi asensin itse linuxin virtuaalikoneen työpöydältä löytyvästä Install Debian - painikkeesta. Asennuksessa oli hyvä vaihtaa näppäimistö Suomeksi, jotta kaikki kirjaimet toimivat niinkuin pitääkin. Tärkeää oli myös tyhjentää virtuaalilevy, jotta mitään edellisiä/ylimääräisiä asioita ei jäänyt: 
+Seuraavaksi asensin Debianin virtuaalikoneen työpöydältä löytyvästä Install Debian - painikkeesta. Asennuksessa oli hyvä vaihtaa näppäimistö Suomeksi, jotta kaikki kirjaimet toimivat niinkuin pitääkin. Tärkeää oli myös tyhjentää virtuaalilevy, jotta mitään edellisiä/ylimääräisiä asioita ei jäänyt: 
+
+![Add file: Upload](Osa-2.png)
+
+Tietokonetta nimetäessä oli tärkeää, että nimi ei sisällä omaa taikka esimerkiksi koulun nimeä. Myös salasanan tuli olla tarpeeksi vahva. Debianin onnistuneen asennuksen jälkeen testasin, että esimerkiksi internetselain toimii niinkuin pitää ja se toimikin:
+
+
 
 
  ## Lähteet
