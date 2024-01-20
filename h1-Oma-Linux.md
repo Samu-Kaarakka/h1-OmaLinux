@@ -18,7 +18,7 @@ x) Hyvän raportin ominaisuuksia:
  - Vapaa ohjelmisto ei tarkoita samaa kuin avoimen lähdekoodin ohjelmisto
 
 
-![Add file: Upload](Viikko-1-Osa-1.png)
+![Add file: Upload](Osa-1.png)
 
  ## Lähteet
 
