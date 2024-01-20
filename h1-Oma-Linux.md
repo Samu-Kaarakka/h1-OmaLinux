@@ -30,8 +30,9 @@ Tietokonetta nimettäessä oli tärkeää, että nimi ei sisällä omaa taikka e
 
 ![Add file: Upload](Osa-3.png)
 
-Viimeiseksi päivitin kaiken komentorivillä komentoa "$ sudo apt-get -y dist-upgrade" käyttäen sekä asensin palomuurin:
+Viimeiseksi päivitin kaiken komentorivillä komentoa "$ sudo apt-get -y dist-upgrade" käyttäen sekä asensin palomuurin(kuvassa):
 
+![Add file: Upload](Osa-4.png)
 
 
 
